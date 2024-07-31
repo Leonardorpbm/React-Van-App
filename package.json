@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s0t9h43u4q",
-  "description": "https://v2.scrimba.com/learn-react-router-6-c06/~02i",
+  "name": "van-app",
+  "description": "van app",
   "scripts": {
     "start": "vite",
     "dev": "vite",
