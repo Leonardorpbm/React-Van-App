@@ -1,0 +1,1 @@
+This project is a web application for renting vans, designed to simplify the process of finding, booking, and managing van rentals. Users can browse through available vans, view detailed information about each vehicle, and easily make reservations.
